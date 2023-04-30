@@ -50,23 +50,6 @@ The above node has a `nodeId` of "8". The `parentId` property of `"7"` instructs
 
 The above node has a `nodeId` of "4". The `parentId` property of `"6"` instructs that this node should be in the `children` array of the node with ID "6". The `previousSiblingId` property of `"2"` instructs that this node should be preceded by the node with ID "2" in the `children` array.
 
-
-
-## Deliverables
-
-1. Your solution (that takes in the provided input and creates the expected output).
-2. Instructions to run the code.
-3. Comments throughout the code that highlights your thinking process.
-4. All this code should be in GitHub.
-
-Your solution will be tested against varying valid inputs.
-
-JSON schemas for both the input and output have been provided if required.
-
-## Good luck
-
-And don't forget to notify nasimi.mamedov@measmerize.com once you're done!
-
 ## How to run the code
 To run the code youy need nodejs (I used v16.13.2)  
 ```bash

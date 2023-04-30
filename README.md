@@ -51,7 +51,7 @@ The above node has a `nodeId` of "8". The `parentId` property of `"7"` instructs
 The above node has a `nodeId` of "4". The `parentId` property of `"6"` instructs that this node should be in the `children` array of the node with ID "6". The `previousSiblingId` property of `"2"` instructs that this node should be preceded by the node with ID "2" in the `children` array.
 
 ## How to run the code
-To run the code youy need nodejs (I used v16.13.2)  
+To run the code you need nodejs (I used v16.13.2)  
 ```bash
 node index.js
 ```
